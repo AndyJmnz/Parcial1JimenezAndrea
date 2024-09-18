@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Examen1</string>
+    <string-array name="tipo_prestamo_options">
+        <item>Personal</item>
+        <item>Negocio</item>
+        <item>Vivienda</item>
+    </string-array>
+
+    <string-array name="horarios_array">
+        <item>08:00</item>
+        <item>08:30</item>
+        <item>09:00</item>
+        <item>09:30</item>
+        <item>10:00</item>
+        <item>10:30</item>
+    </string-array>
+
+    <string name="personal"> Ideal para gastos personales, con un rango de ingreso mínimo de $20,000 a $40,000.</string>
+    <string name="negocio">Diseñado para emprendedores y empresas, con ingresos desde $40,000 hasta $60,000</string>
+    <string name="vivenda">Para adquirir o mejorar una vivienda, con ingresos de $15,000 a $35,000.</string>
+</resources>
